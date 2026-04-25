@@ -7,4 +7,3 @@ Day 6 - web3 wallet practice
 Day 7 - defi basics 
 
 
-
